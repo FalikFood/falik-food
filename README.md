@@ -4,7 +4,7 @@ This repository contains a presentation about food, healthy recipes, and creativ
 It also highlights useful resources for food lovers.  
 
 👉 Check out more [delicious food ideas](https://falik.com/en)  
-👉 Explore [healthy food recipes](https://falik.com/en)  
+  
 
 ---
 
